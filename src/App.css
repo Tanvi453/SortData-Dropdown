@@ -1,0 +1,8 @@
+th,
+td,
+table {
+  border: 2px #c38b9a solid;
+  padding: 10px;
+  color: #6a6146;
+  font-weight: bold;
+}
